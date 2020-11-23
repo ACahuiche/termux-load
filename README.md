@@ -1,4 +1,4 @@
-# Termux Start
+# Termux Load
 ## Carga termux con las herramientas mas comunes
 
 Instrucciones
