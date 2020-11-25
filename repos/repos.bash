@@ -38,3 +38,13 @@ toilet IPMux
 echo "Buscando IPMux para descargar"
 
 bash repos/ipmux.bash
+
+clear
+
+setterm --foreground blue
+
+toilet IPMux
+
+echo "Buscando Jammer para descargar"
+
+bash repos/jammer.bash
