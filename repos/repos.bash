@@ -21,16 +21,6 @@ bash repos/darkfly.bash
 
 clear
 
-setterm --foreground blue
-
-toilet Optiva
-
-echo "Buscando Optiva Framework para descargar"
-
-bash repos/optiva.bash
-
-clear
-
 setterm --foreground red
 
 toilet Red Hawk
