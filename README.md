@@ -23,7 +23,7 @@ bash init.bash
 2. DarkFly
 3. RedHawk
 4. IPMux
-5. Jammer
+5. Depix
 
 ### Extras 
 1. Toilet

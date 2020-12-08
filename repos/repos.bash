@@ -41,10 +41,10 @@ bash repos/ipmux.bash
 
 clear
 
-setterm --foreground blue
+setterm --foreground green
 
-toilet IPMux
+toilet Depix
 
-echo "Buscando Jammer para descargar"
+echo "Buscando Depix para descargar"
 
-bash repos/jammer.bash
+bash repos/depix.bash
