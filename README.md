@@ -17,6 +17,7 @@ bash init.bash
 3. OpenSSh
 4. Git
 5. W3M
+6. Crunch
 
 ### Repositorios
 1. Fotosploit
@@ -24,8 +25,14 @@ bash init.bash
 3. RedHawk
 4. IPMux
 5. Depix
+6. Zipcrick
 
 ### Extras 
 1. Toilet
 2. Bash Completion
 3. PV
+4. CMatrix
+5. Fliget
+
+[![Alberto Cahuiche's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/cahuichealberto)
+    

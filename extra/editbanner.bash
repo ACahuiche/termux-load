@@ -31,6 +31,8 @@ then
     echo 'setterm --foreground green' >> .bashrc
     
     echo 'toilet ' $nom  '| pv -qL 500' >> .bashrc
+    
+    echo 'cmatrix' >> .bashrc
    
     echo "Banner actualizado correctamente
 "

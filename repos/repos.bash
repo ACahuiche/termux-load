@@ -1,5 +1,15 @@
 clear
 
+setterm --foreground green
+
+toilet Java
+
+echo "Buscando Java para Termux"
+
+bash repos/java.bash
+
+clear
+
 setterm --foreground blue
 
 toilet Foto
@@ -28,6 +38,16 @@ toilet Red Hawk
 echo "Buscando Red Hawk para descargar"
 
 bash repos/redhawk.bash
+
+clear
+
+setterm --foreground blue
+
+toilet Zipcrick
+
+echo "Buscando Zipcrick para descargar"
+
+bash /repos/zipcrick.bash
 
 clear
 

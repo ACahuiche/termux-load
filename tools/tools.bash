@@ -1,5 +1,13 @@
 clear
 
+setterm --foreground green
+
+toilet CMATRIX
+
+pkg install cmatrix
+
+clear
+
 setterm --foreground red
 
 toilet VIM
@@ -27,6 +35,16 @@ toilet OpenSSH
 echo "Verificando archivos de OpenSSH"
 
 pkg install openssh
+
+clear
+
+setterm --foreground yellow
+
+toilet Crunch
+
+echo "Verificando archivos de Crunch"
+
+pkg install crunch
 
 clear
 
