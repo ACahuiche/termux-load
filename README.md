@@ -32,7 +32,7 @@ bash init.bash
 2. Bash Completion
 3. PV
 4. CMatrix
-5. Fliget
+5. Figlet
 
 [![Alberto Cahuiche's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/cahuichealberto)
     
