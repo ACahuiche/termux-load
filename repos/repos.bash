@@ -68,3 +68,13 @@ toilet Depix
 echo "Buscando Depix para descargar"
 
 bash repos/depix.bash
+
+clear
+
+setterm --foreground blue
+
+toilet Lockphish
+
+echo "Buscando Lockphish para descargar"
+
+bash repos/lockphish.bash

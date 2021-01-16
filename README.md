@@ -26,6 +26,7 @@ bash init.bash
 4. IPMux
 5. Depix
 6. Zipcrick
+7. Lockphish
 
 ### Extras 
 1. Toilet
