@@ -1,10 +1,10 @@
-echo "Quieres descargar Lockphsih y/n"
+echo "Quieres descargar Lockphish y/n"
 
 read opc1
 
 if [ "$opc1" == 'y' ];
 then
-    echo "Descargando Lockphsih"
+    echo "Descargando Lockphish"
 
     cd $HOME
 
